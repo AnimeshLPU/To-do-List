@@ -20,5 +20,13 @@ Welcome to the **To-Do List App**! 🎉 This is a simple web application built u
 ## 💻 Getting Started
 
 To get this project running on your local machine, follow these steps:
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/to-do-list.git
 
+2.Navigate to the project directory:
+```bash
+   cd to-do-list
+
+3.Open the index.html file in your preferred web browser. 🌐
 
